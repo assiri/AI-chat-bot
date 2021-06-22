@@ -64,6 +64,8 @@ ChatbotLab.ipynb
 For using the command prompt. Make sure to have NLTK, TensorFlow, and Keras installed in your device.
 
 ```
+cd chatbot
+
 python chatbot.py
 ```
 For Gui
